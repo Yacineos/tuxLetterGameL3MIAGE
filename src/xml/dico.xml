@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionnaire>
+    <!-- english 3 to 4 letters length-->
+    <difficulte niveau="1">
+        <mot>
+            tate
+        </mot>
+    </difficulte>
+    <!-- english 5 to 6 letters length -->  
+    <difficulte niveau="2">
+        <mot>
+            andrew
+        </mot>
+    </difficulte>
+    <!-- english 7 to 8 letters-->  
+    <difficulte niveau="3">
+        <mot>
+             hustlers
+        </mot>
+    </difficulte>
+      <!-- english 9 to 10 letters-->
+    <difficulte niveau="4">
+        <mot>
+            cobratate
+        </mot>
+    </difficulte>  
+    <!-- english 11 and more -->
+    <difficulte niveau="5">
+        <mot>
+            yachtswoman
+        </mot>
+    </difficulte>     
+</dictionnaire>
+
